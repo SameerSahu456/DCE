@@ -20,4 +20,4 @@ figure(4);
 imshow(p1)
 
 
-b=randn;
+
