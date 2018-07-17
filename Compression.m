@@ -21,5 +21,3 @@ imshow(p1)
 
 
 b=randn;
-figure(5);
-imshow(b)
