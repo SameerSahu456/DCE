@@ -93,7 +93,7 @@ for i=1:length(e)
     
     elseif(mod(i,2)==0)  
     j=j+1;    
-    for j=j:(e(i)+j)
+    for j=j:(e(i)+j-1)
         d(j)='a';
     end
     
